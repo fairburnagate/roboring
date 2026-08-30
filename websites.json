@@ -10,7 +10,7 @@
         "slug": "stel",
         "about": "stel's silly personal website",
         "url": "https://moondvsted.space",
-        "owner": "https://eepy.moe/@stel"
+        "owner": "stel@disroot.org"
     },
     {
         "name": "synth download!",
@@ -349,11 +349,11 @@
         "owner": "https://bsky.app/profile/inkbi0tic.bsky.social"
     },
     {
-        "name": "⬡-0x7e5ac6 [Astreaprtcl]",
-        "slug": "0x7e5ac6",
+        "name": "⬡-0x7a5ec6 [Astreaprtcl]",
+        "slug": "0x7a5ec6",
         "about": "a little blogpage from a cat-girl-bot-thing",
         "url": "https://astreaprtcl.dev",
-        "owner": "https://transgirl.cafe/@astreaprtcl"
+        "owner": "https://c-6.dev/fedi/astreaprtcl"
     },
     {
         "name": "arlatius_",
@@ -397,11 +397,65 @@
         "url": "https://proot.uk/"
     },
     {
+        "name": "Ava Loathelace",
+        "slug": "ava",
+        "about": "my personal website for yapping about linux and other things :3",
+        "url": "https://avaloathelace.neocities.org/",
+        "owner": "https://neocities.org/site/avaloathelace/"
+    },
+    {
         "name": "7vtia",
         "slug": "7vtia",
         "about": "The website of someone who really likes directories.",
         "url": "https://7vtia.nekoweb.org/",
         "rss": "https://7vtia.nekoweb.org/rss.xml",
         "owner": "7vtia@tuta.io"
+    },
+    {
+        "name": "S1LV3R",
+        "slug": "s1lv3r",
+        "about": "nerdy shit and whatever i find interesting",
+        "url": "https://s1lv3r.codes",
+        "rss": "http://s1lv3r.codes/blog/feed.rss",
+        "owner": "mailto:me@s1lv3r.codes"
+    },
+    {
+        "name": "Raven Winters",
+        "slug": "rjw",
+        "about": "personal website and photography by Raven Winters",
+        "url": "https://ravenwinters.org",
+        "rss": "https://ravenwinters.org/index.xml",
+        "owner": "hello@ravenwinters.org"
+    },
+    {
+        "name": "HAL",
+        "slug": "hal",
+        "about": "A comprehensive personal blog (that's more like a wiki in reality)",
+        "url": "https://hal.nekoweb.org",
+        "rss": "https://hal.nekoweb.org/rss.xml",
+        "owner": "kadowus@icloud.com"
+    },
+    {
+        "name": "Zaraz7",
+        "slug": "0x2ABA27",
+        "about": "Just an amateur artist (and text browsers enjoyer)",
+        "url": "https://zaraz7.w10.site",
+        "rss": "https://zaraz7.w10.site/gallery-rss.xml",
+        "owner": "https://mastodon.ml/@zaraz7"
+    },
+    {
+        "name": "Inskora",
+        "slug": "voidwalkers",
+        "about": "I'm a big fan of the TV-headed robots from Alexey Gerasimov's machinima series Skibidi Toilet. Voidwalkers Outpost is a fan-site dedicated to them!",
+        "url": "https://voidwalkers.tv/",
+        "owner": "https://me.sludge.town/"
+    },
+    {
+        "name": "343598",
+        "slug": "ivelieu",
+        "about": "linux, customisation and rust",
+        "url": "https://quietism.art/",
+        "rss": "https://quietism.art/blog.xml",
+        "owner": "ivelieu1@gmail.com"
     }
 ]
